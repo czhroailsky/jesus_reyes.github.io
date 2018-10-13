@@ -24,7 +24,7 @@ linkedin_username: jesús-javier-reyes-torres
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jesús and I am an enthusiastic about machine learning, natural language processing, probability and reinforcement learning. I completed my Master's in Computer Engineering at the Computer Research Center of the National Polytechnic Institute, México.
+  Hi, my name is Jesús and I am an enthusiastic about machine learning, natural language processing, probability and reinforcement learning. I completed my Master's in Computer Engineering at the Computer Research Center of the National Polytechnic Institute, México.
 
   I am most skilled in: <mark>Python programming language</mark>.
 
