@@ -14,14 +14,14 @@ github_username:  czhroailsky
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: czochraiski
+#instagram_username: czochraiski
 linkedin_username: jesús-javier-reyes-torres
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+# about_title: Bienvenidos
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jesús and I am an enthusiastic about machine learning, natural language processing, probability and reinforcement learning. I completed my Master's in Computer Engineering at the Computer Research Center of the National Polytechnic Institute, México.
